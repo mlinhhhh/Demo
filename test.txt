@@ -1,3 +1,8 @@
 abcd
 
 fetch => pull => code => commit =>push
+
+fetch: Lấy mọi thứ mới về local
+pull: update
+commit: chú thích
+push: Đẩy code lên
